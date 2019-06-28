@@ -1,0 +1,25 @@
+本项目参考了一下博客和源码，在此感谢：
+
+MVP封装
+https://blog.csdn.net/u013278099/article/details/52514882
+
+retrofit 使用
+https://www.jianshu.com/p/f2644cc784f3
+https://www.jianshu.com/p/3e13e5d34531
+https://www.jianshu.com/p/9674f6df910d
+
+缓存机制
+https://blog.csdn.net/picasso_l/article/details/50579884
+https://www.jianshu.com/p/9c3b4ea108a7
+
+RxJava Lifecycle
+https://blog.csdn.net/u014702653/article/details/75268919
+https://blog.csdn.net/dd864140130/article/details/53029617
+
+Presenter 生命周期
+https://blog.csdn.net/osle123/article/details/52755556
+
+github
+https://github.com/BoBoMEe/Android-Demos/tree/master/retrofit2
+https://github.com/RuffianZhong/Rx-Mvp
+

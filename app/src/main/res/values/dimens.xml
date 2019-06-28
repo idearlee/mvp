@@ -1,0 +1,25 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="action_bar_height">51dp</dimen>
+    <!--common-->
+    <dimen name="common_margin">16dp</dimen>
+    <dimen name="common_item_height">48dp</dimen>
+    <dimen name="common_text_padding">4dp</dimen>
+    <dimen name="common_padding">8dp</dimen>
+
+
+    <dimen name="divider_height">1px</dimen>
+
+    <!--Text size-->
+    <dimen name="text_large">20sp</dimen>
+    <dimen name="text_big">18sp</dimen>
+    <dimen name="text_normal">16sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_x_small">12sp</dimen>
+
+    <!--login-->
+
+    <dimen name="tv_login_width">140dp</dimen>
+
+</resources>
